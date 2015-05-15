@@ -1,0 +1,23 @@
+	
+body 	{
+		background-color: #B8D9D3;
+		font-family: "Courier New", Courier, monospace;
+		font-size: 15px;
+		
+		}
+		
+h1	{
+	color: #FF6F59;
+	background: #FFF34D;
+	opacity: 0.8
+	font-family: verdana, arial, sans-serif;
+	font-size: 28px;
+	}
+	
+h2,h3 {
+	color: #FF3F4F;
+	font-family: verdana, arial, sans-serif;
+	font-size: 20px;
+	}
+	
+		
